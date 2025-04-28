@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsTaufikHdyt&show_icons=true&theme=dracula" alt="ItsTaufikHdyt Github Stats">
   <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=ItsTaufikHdyt&icon=0&color=0" alt="ItsTaufikHdyt Github Profile Views" />
-  <br><br>
   <details>
     <summary>My Detail Stats (click me to toggle 👀)</summary>
     <br>
