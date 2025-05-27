@@ -16,15 +16,12 @@
 
 I'm a Software Engineer with a strong focus on Backend Development for full-time roles, and additional experience in Fullstack Development for freelance or side projects. I’m passionate about building robust systems and continuously exploring modern web and mobile technologies.
 
+## 💼 Career
 I currently work as a Software Engineer at the Regional Development Planning, Research, and Innovation Agency (BAPPERIDA) of Bontang City, where I support digital initiatives and develop systems to improve data-driven decision-making.
 
 Previously, I worked at the Department of Communication and Informatics (Diskominfo) of Bontang City, contributing to various digital transformation projects.
 
 With over 5 years of professional experience and more than 8 years of continuous learning in Software Engineering since 2017, I’m committed to writing clean, scalable, and maintainable code — while always being eager to learn, adapt, and grow.
-
-## 💼 Career
-I'm working full-time as a ***Software Engineer*** at Dinas Komunikasi dan Informatika (Diskominfo) Kota Bontang.  
-I have 4+ YoE in professional works and about ~8+ YoE in Learning about Software Engineering (started in 2017).
 
 ## 🔍 Currently Learning:
 - Laravel, Vue, React, Flutter, Node JS, Generative AI/LLM
