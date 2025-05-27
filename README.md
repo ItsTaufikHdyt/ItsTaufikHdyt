@@ -12,7 +12,15 @@
 
 <br>
 
-👋 Hello. My full name is Taufik Hidayat, and you can call me ***"Taufik"***. I'm a Software Engineer specializing in *Backend Development* for full-time roles, with additional skills in *Fullstack Development* for freelance or side projects. I have a strong passion for exploring modern *mobile and web technologies*.
+👋 Hello! My name is Taufik Hidayat, but feel free to call me ***"Taufik"***.
+
+I'm a Software Engineer with a strong focus on Backend Development for full-time roles, and additional experience in Fullstack Development for freelance or side projects. I’m passionate about building robust systems and continuously exploring modern web and mobile technologies.
+
+I currently work as a Software Engineer at the Regional Development Planning, Research, and Innovation Agency (BAPPERIDA) of Bontang City, where I support digital initiatives and develop systems to improve data-driven decision-making.
+
+Previously, I worked at the Department of Communication and Informatics (Diskominfo) of Bontang City, contributing to various digital transformation projects.
+
+With over 5 years of professional experience and more than 8 years of continuous learning in Software Engineering since 2017, I’m committed to writing clean, scalable, and maintainable code — while always being eager to learn, adapt, and grow.
 
 ## 💼 Career
 I'm working full-time as a ***Software Engineer*** at Dinas Komunikasi dan Informatika (Diskominfo) Kota Bontang.  
